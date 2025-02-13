@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jenoliya
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning SQL
-- 📫 How to reach me jenoliyasunilkumar@gmail.com
-- 😄 Pronouns: she/her 
+👋 Hi, I’m @jenoliya  
+👀 I’m interested in Python Development  
+🌱 I’m currently learning Tailwind, Shadcn UI, and Django  
+📫 How to reach me: jenoliyasunilkumar@gmail.com  
+😄 Pronouns: she/her
