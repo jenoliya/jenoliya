@@ -1,5 +1,5 @@
-👋 Hi, I’m @Jenoliya Sunilkumar
-👀 I’m interested in Python Development, Full Stack Development, UI UX Development
-🌱 I’m currently learning FastAPI, MongoDB, PostgresSQl, Claude AI TailwindCSS, Shadcn UI, Django, Qwik, ReactJS, NextJS, Typescript
-📫 How to reach me: jenoliyasunilkumar@gmail.com  
-😄 Pronouns: she/her
+🚀 Backend & Full Stack Developer
+💻 Python | FastAPI | Django | React | Next.js
+🛢️ PostgreSQL | MongoDB
+🎨 Tailwind CSS | ShadCN UI
+📚 Currently exploring AI (Claude, Anthropic) & Automation (n8n)
